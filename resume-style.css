@@ -1,9 +1,9 @@
 body {
 	background-color: #C8CFD0;
-	border-left: 10px solid black;
+	border-left: 25px solid black;
 	padding: 3% 5% 5%;
 	font: 100% Palatino, serif;
-	margin: 0;
+	margin: 0%;
 }
 
 h1 {
@@ -19,10 +19,15 @@ h2 {
 
 h3 {
 	font-size: 1.5em;
-	color: maroon;
-	margin: 3px 0px;
+	color: #3b4445;
+	margin: 3px;
 }
 
-p {
+ul {
+	margin-top: 0px;
+	list-style-type: circle;
+}
+
+li {
 	font-size: 1em;
 }
