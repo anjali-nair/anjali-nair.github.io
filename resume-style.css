@@ -1,9 +1,9 @@
 body {
-	background-color: #99A3A4;
-	border-left: 6px solid black;
-	padding: 5%;
+	background-color: #C8CFD0;
+	border-left: 10px solid black;
+	padding: 3% 5% 5%;
 	font: 100% Palatino, serif;
-	margin: 6% 4%;
+	margin: 0;
 }
 
 h1 {
@@ -13,10 +13,14 @@ h1 {
 
 h2 {
 	font-size: 1.875em;
+	margin: 5px 0px;
+
 }
 
 h3 {
 	font-size: 1.5em;
+	color: maroon;
+	margin: 3px 0px;
 }
 
 p {
