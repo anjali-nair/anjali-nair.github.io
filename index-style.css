@@ -14,10 +14,11 @@ h1 {
 ul {
 	list-style-type: none;
 	overflow: hidden;
+	text-align: center;
 }
 
 li {
-	display: inline;
+	display: inline-block;
 }
 
 a:link, a:visited {
@@ -25,10 +26,8 @@ a:link, a:visited {
 	font: 1.75em;
 	color: white;
 	padding: 20px 30px;
-	margin-left: 40%;
 	text-align: center;
 	text-decoration: none;
-	display: inline-block;
 }
 
 a:hover, a:active {
