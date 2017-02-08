@@ -1,21 +1,28 @@
 body {
 	background-color: black;
-	font-size: 100%;
+	font: 100% CenturyGothic, sans-serif;
 	color: white;
 }
 
 h1 {
-	font: 2.5em CenturyGothic, sans-serif;
+	font-size: 2.5em;
 	color: #DAACA6;
 	text-align: center;
 	text-transform: uppercase;
 }
 
+ul {
+	list-style-type: none;
+	overflow: hidden;
+}
+
+
 a:link, a:visited {
 	background-color: #cc0000;
-	font: 1.75em Bodoni, serif;
+	font: 1.75em;
 	color: white;
 	padding: 20px 30px;
+	margin: auto;
 	text-align: center;
 	text-decoration: none;
 	display: inline-block;
