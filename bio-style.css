@@ -1,0 +1,17 @@
+body {
+	background-color: #C8CFD0;
+	padding: 5% 10% 10%;
+}
+
+h1 {
+	text-align: center;
+	border-bottom: 3px solid maroon;
+	font: 2.5em CenturyGothic, sans-serif;
+}
+
+p {
+	text-indent: 50 px;
+	text-align: justify;
+	letter-spacing: 3px;
+	font: 1.75em Bodoni, serif;
+}
