@@ -1,0 +1,36 @@
+body {
+	background-color: black;
+	font-size: 100%;
+	color: white;
+}
+
+h1 {
+	font: 2.5em CenturyGothic, sans-serif;
+	color: #DAACA6;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+a:link, a:visited {
+	background-color: #cc0000;
+	font: 1.75em Bodoni, serif;
+	color: white;
+	padding: 20px 30px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+}
+
+a:hover, a:active {
+    background-color:  #DAACA6;
+}
+
+img.face {
+	display: block;
+	margin: auto;
+	padding: 3%;
+	border-bottom: 3px solid white;
+	width: 300px;
+	height: auto;
+}
+
