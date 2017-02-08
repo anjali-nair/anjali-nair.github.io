@@ -16,13 +16,16 @@ ul {
 	overflow: hidden;
 }
 
+li {
+	display: inline;
+}
 
 a:link, a:visited {
 	background-color: #cc0000;
 	font: 1.75em;
 	color: white;
 	padding: 20px 30px;
-	margin: auto;
+	margin-left: 40%;
 	text-align: center;
 	text-decoration: none;
 	display: inline-block;
@@ -40,4 +43,3 @@ img.face {
 	width: 300px;
 	height: auto;
 }
-
